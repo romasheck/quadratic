@@ -2,7 +2,7 @@
 
 int compare_double ( const double x, const double y )
 {
-	assert ( std::isfinite(x) );
+    assert ( std::isfinite(x) );
     assert ( std::isfinite(y) );
 
     if (fabs(x - y)  <  EPSILON)  return equa1;
