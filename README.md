@@ -1,2 +1,3 @@
 # quadratic
-programma, which calculated roots of quadratic equation
+program, which calculated roots of quadratic equation
+
